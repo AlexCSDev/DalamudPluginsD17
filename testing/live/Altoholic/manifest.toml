@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "667fd19a437185bcbfba78e0c0e5c5beda72abf5"
+commit = "c9618f79689bdc4df8fbee715276c89fd54c5705"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Adding Hatching-tide seasonal event and 7.2 MSQ
+- **Progress**: Add moonfire faire 2025
 """

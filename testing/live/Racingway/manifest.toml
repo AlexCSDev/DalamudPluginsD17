@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "f3d9828eec44ab1ea48a4319d546920a7e90ca7a"
+commit = "6993970b676293077c7e9c792f598eee95fa3b3e"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.6.5 [TESTING]
-- Fix records tab
-- Add importing records (they're very large at the moment)
-- Make right-click to display records work for loaded routes
-
-Known Issues:
-- Highlighted record loses it's color when you start a race
+v0.1.1.3 [TESTING]
++ Attempt to fix importing issues.
 """
+
+
